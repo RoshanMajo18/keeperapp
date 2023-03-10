@@ -1,0 +1,11 @@
+{
+  "main.js": "/keeperapp/static/js/main.00fff6fc.chunk.js",
+  "main.js.map": "/keeperapp/static/js/main.00fff6fc.chunk.js.map",
+  "static/js/1.032d731c.chunk.js": "/keeperapp/static/js/1.032d731c.chunk.js",
+  "static/js/1.032d731c.chunk.js.map": "/keeperapp/static/js/1.032d731c.chunk.js.map",
+  "runtime~main.js": "/keeperapp/static/js/runtime~main.b886af4f.js",
+  "runtime~main.js.map": "/keeperapp/static/js/runtime~main.b886af4f.js.map",
+  "index.html": "/keeperapp/index.html",
+  "precache-manifest.2390c672d8bd448175a7bcd92eec2c19.js": "/keeperapp/precache-manifest.2390c672d8bd448175a7bcd92eec2c19.js",
+  "service-worker.js": "/keeperapp/service-worker.js"
+}
